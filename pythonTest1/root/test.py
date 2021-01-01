@@ -8,3 +8,5 @@ d['l'] = 400
 
 for k,v in d.items():
     print(k,v)
+
+a = 1
